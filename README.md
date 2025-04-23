@@ -7,6 +7,7 @@
 
 ### Быстрый старт:
 cd task_1/btc_etl_airflow
+
 docker-compose up -d
 
 ### Конфигурация:
